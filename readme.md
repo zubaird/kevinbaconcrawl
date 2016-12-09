@@ -1,6 +1,8 @@
 
 ## In Class Example of the Bacon Crawler
 
+This example only looks at IMDB
+
 How to find bacon number:
 
 ```
