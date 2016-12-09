@@ -6,7 +6,7 @@ This example only looks at IMDB
 How to find bacon number:
 
 ```
-  ruby bacon_run.rb [PERSON NAME]
+  ruby bacon_run.rb ["PERSON NAME"]
 ```
 
 ## What you can do
